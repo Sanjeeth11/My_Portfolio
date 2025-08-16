@@ -19,37 +19,28 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
+              Results-driven <b className="purple">Java Full Stack Developer</b> with 
+              <b className="purple"> 2 years of hands-on experience</b> in designing, 
+              developing, and deploying scalable, high-performance web applications.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              Proficient in <b className="purple">Java, Spring Boot, and microservices architecture</b>, 
+              with strong expertise in building and consuming <b className="purple">RESTful APIs</b>.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              Adept at working with relational databases including 
+              <b className="purple"> MySQL</b> and <b className="purple">PostgreSQL</b>.
+              Familiar with front-end technologies such as 
+              <b className="purple"> HTML, CSS, and JavaScript</b> to support end-to-end application development.
+              <br />
+              <br />
+              Skilled in version control using <b className="purple">Git and GitHub</b>, 
+              with experience deploying applications on cloud-based platforms like 
+              <b className="purple"> Heroku</b> and <b className="purple">Vercel</b>.
+              <br />
+              <br />
+              Knowledgeable in <b className="purple">Agile methodologies</b> and 
+              <b className="purple"> CI/CD practices</b>, ensuring efficient and collaborative development workflows.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,44 +58,44 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/Sanjeeth11"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/your-twitter-handle"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/sai-sanjeeth-raj-pisupaty-853837298/"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/your-instagram-handle"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
